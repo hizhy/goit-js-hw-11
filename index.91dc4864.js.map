@@ -1,1 +1,0 @@
-{"mappings":"AAIiBA,SAASC,cAAc","sources":["src/index.js"],"sourcesContent":["import './css/styles.css';\n\n\n\nconst inputRef = document.querySelector('#search-box');\n\n"],"names":["document","querySelector"],"version":3,"file":"index.91dc4864.js.map"}
